@@ -1,0 +1,41 @@
+/* ภารกิจที่ 2: จัดสไตล์ <body> */
+body {
+  background-color: papayawhip;
+  font-family: Arial, sans-serif;
+}
+
+/* ภารกิจที่ 3: จัดสไตล์ .card */
+.card {
+  width: 300px;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* ภารกิจที่ 4: จัดสไตล์รูปภาพ <img> */
+.card img {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 15px;
+}
+
+/* ภารกิจที่ 5: จัดสไตล์ชื่อ #profile-name */
+#profile-name {
+  color: #333333;
+  text-align: center;
+}
+
+/* ภารกิจที่ 6: จัดสไตล์ .bio */
+.bio {
+  color: #666666;
+  font-size: 14px;
+}
+
+/* ภารกิจที่ 7: จัดสไตล์ <ul> */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
